@@ -12,7 +12,6 @@ Durante o curso, exploramos desde os sistemas numéricos até os componentes de 
 
 O projeto visa consolidar os seguintes conceitos:
 
-- Conversão entre bases numéricas (binário, decimal, hexadecimal)
 - Operações aritméticas básicas
 - Representação de números no formato de máquina
 - Lógica computacional aplicada
@@ -22,5 +21,4 @@ O projeto visa consolidar os seguintes conceitos:
 - Adição
 - Subtração
 - Multiplicação
-- Divisão
-- Conversão entre bases
+
